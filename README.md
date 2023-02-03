@@ -1,4 +1,3 @@
-![Header](./[])
 <h1 align="center">Hi 👋, I'm Sanskar</h1>
 <h3 align="center">a passionate techie from India.</h3>
 <img align="right" alt="Coding Cat" width="200" src="https://media.tenor.com/IVCnKbtTeRQAAAAM/programming-computer.gif">
